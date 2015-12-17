@@ -1,10 +1,11 @@
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file ql.hpp
- * @author  Norbert Bátfai <nbatfai@gmail.com>
+ * @file QL.java
+ * @author  Szabó Bence <bszabo@gmail.com>
  * @version 0.0.1
- *
+ * Java Version of the original C++ code, made by Szabó Bence
+ 
  * @section LICENSE
  *
  * Copyright (C) 2015 Norbert Bátfai, batfai.norbert@inf.unideb.hu

@@ -1,9 +1,10 @@
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file nlp.hpp
- * @author  Norbert Bátfai <nbatfai@gmail.com>
+ * @file nlp.java
+ * @author  Szabó Bence <bszabo@gmail.com>
  * @version 0.0.1
+ * Java Version of the original C++ code, made by Szabó Bence
  *
  * @section LICENSE
  *
